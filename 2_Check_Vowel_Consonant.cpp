@@ -15,7 +15,7 @@ cout<< ch << " is a Vowel" <<endl;
 }
 else 
 {
-cout<< ch << "is a Consonant " <<endl;
+cout<< ch << " is a Consonant " <<endl;
 }
 return 0;
 }
